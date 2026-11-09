@@ -1,0 +1,16 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc = "0.8.29"
+optimizer = true
+optimizer_runs = 200
+remappings = [
+    "@reactive/=lib/reactive-lib/",
+    "forge-std/=lib/forge-std/src/",
+]
+
+[rpc_endpoints]
+lasna = "https://lasna-rpc.rnk.dev/"
+base_sepolia = "${BASE_SEPOLIA_RPC}"
+unichain_sepolia = "${UNICHAIN_SEPOLIA_RPC}"
