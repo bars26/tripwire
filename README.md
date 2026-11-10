@@ -1,3 +1,5 @@
+<img src="docs/logo.png" width="96" alt="Tripwire logo">
+
 # Tripwire
 
 A cross-chain dead-bolt for your wallet, built on [Reactive Network](https://reactive.network) Omni.
