@@ -63,7 +63,7 @@ Base Sepolia also received a second, empty `rescue()` delivery 7 s later althoug
 ## Links
 
 - Repository: https://github.com/bars26/tripwire
-- Demo video: _add the YouTube link_
+- Demo video: https://youtu.be/ROqKY8Ezvy8
 
 ## Built during the event
 

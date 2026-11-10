@@ -8,6 +8,8 @@ chain** to a safe address you chose in advance. No bot, no server, no key online
 
 Built for the Reactive Omni Buildathon, *Set It and Forget It* track.
 
+**Demo video (74 s):** https://youtu.be/ROqKY8Ezvy8
+
 ## Why
 
 Wallet drainers work by getting one malicious approval or signature. Once that happens the attacker
